@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.0ae2c80c.css",
+    "main.js": "/ReactApp/static/js/main.b0a9d14a.js",
+    "static/js/787.0bf7224e.chunk.js": "/ReactApp/static/js/787.0bf7224e.chunk.js",
+    "static/media/img4.gif": "/ReactApp/static/media/img4.37d8a6d3e8fc472f084b.gif",
+    "static/media/img2.gif": "/ReactApp/static/media/img2.b584dd447d01ea9db09c.gif",
+    "static/media/android.jpg": "/ReactApp/static/media/android.ed5a7921bc0b0d01d74b.jpg",
+    "static/media/app.jpg": "/ReactApp/static/media/app.50554c9c6f1ec77d5999.jpg",
+    "static/media/computer.jpg": "/ReactApp/static/media/computer.61f743a1adeb008c4c3d.jpg",
+    "static/media/hacking.jpg": "/ReactApp/static/media/hacking.e543236785b11b9170ab.jpg",
+    "static/media/mobile.jpg": "/ReactApp/static/media/mobile.111649a7eba18cf06943.jpg",
+    "static/media/photo1.webp": "/ReactApp/static/media/photo1.fcb588c4ffd95b3ec0fc.webp",
+    "index.html": "/ReactApp/index.html",
+    "main.0ae2c80c.css.map": "/ReactApp/static/css/main.0ae2c80c.css.map",
+    "main.b0a9d14a.js.map": "/ReactApp/static/js/main.b0a9d14a.js.map",
+    "787.0bf7224e.chunk.js.map": "/ReactApp/static/js/787.0bf7224e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae2c80c.css",
+    "static/js/main.b0a9d14a.js"
+  ]
+}
